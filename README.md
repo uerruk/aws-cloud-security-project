@@ -1,5 +1,8 @@
 # AWS Cloud Security Project — onlinebaqqala.store
 
+Hi, This is a Cloud Security Project build for the purpose of learnig Cloud Structure / Cloud Security.  It have some gaps I am trying to cover. I hope it helps and if you have any recommendations / suggestions Please feel free to comment. 
+Excuse the name's of resources they need work. 
+
 Production AWS infrastructure built security-first, hands-on from the console up.
 Every service was configured manually through the AWS console first to understand it deeply,
 then written as Terraform IaC (now in a separate repo).
@@ -647,5 +650,4 @@ aws-cloud-security-project/
 ```
 
 ---
-
-*Built by [@uerruk](https://github.com/uerruk) — hands-on AWS security project, SCS-C02 and SAA-C03 preparation.*
+*Built by [@uerruk](https://github.com/uerruk) — hands-on AWS security project, SCS-C02 and SAA-C03 preparation. AI is used to compile.*
